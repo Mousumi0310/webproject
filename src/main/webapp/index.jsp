@@ -81,7 +81,7 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="intro-message">
-                        <h1>Project-Deployment</h1>
+                        <h1>My-Deployment</h1>
                         <h3>Sreekanth Application</h3>
                         <hr class="intro-divider">
                         <ul class="list-inline intro-social-buttons">
